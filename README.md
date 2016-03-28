@@ -1,4 +1,6 @@
 # :dog: playgrounds
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 ## Visalization and Implemention of Power Method in MATLAB
 
 We show a visualization of eigenvector in Power method  by each iteration.
